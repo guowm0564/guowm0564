@@ -1,0 +1,31 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="http://en88.cc/go/logo/CCTV1.png" tvg-name="CCTV1" group-title="中央台",CCTV1综合
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000152
+#EXTINF:-1 tvg-logo="http://en88.cc/go/logo/CCTV2.png" tvg-name="CCTV2" group-title="中央台",CCTV2财经
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000477
+#EXTINF:-1 tvg-logo="http://en88.cc/go/logo/CCTV4.png" tvg-name="CCTV4" group-title="中央台",CCTV4军事
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000573
+#EXTINF:-1 tvg-logo="http://en88.cc/go/logo/CCTV7.png" tvg-name="CCTV7" group-title="中央台",CCTV7军事
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000485
+#EXTINF:-1 tvg-logo="http://en88.cc/go/logo/CCTV9.png" tvg-name="CCTV9" group-title="中央台",CCTV9纪录
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000478
+#EXTINF:-1 tvg-logo="http://en88.cc/go/logo/CCTV10.png" tvg-name="CCTV10" group-title="中央台",CCTV10科教
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000480
+#EXTINF:-1 tvg-logo="http://en88.cc/go/logo/CCTV11.png" tvg-name="CCTV11" group-title="中央台",CCTV12法制
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000583
+#EXTINF:-1 tvg-logo="http://en88.cc/go/logo/CCTV13.png" tvg-name="CCTV13" group-title="中央台",CCTV13新闻
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000602
+#EXTINF:-1 tvg-logo="http://en88.cc/go/logo/ahjs.png" tvg-name="安徽经视" group-title="安徽台",安徽经视
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000029
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-name="安徽卫视" group-title="安徽台",安徽卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000039
+#EXTINF:-1 group-title="安徽台",六安公共
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000123
+#EXTINF:-1 group-title="安徽台",六安综合
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000125
+#EXTINF:-1 group-title="动画",卡酷动画
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000150
+#EXTINF:-1 group-title="动画",金鹰卡通
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000151
+#EXTINF:-1 group-title="动画",嘉佳卡通
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000448
